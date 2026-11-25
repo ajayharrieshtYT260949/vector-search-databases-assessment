@@ -5,3 +5,4 @@ requests
 psycopg[binary]
 pgvector
 python-dotenv
+qdrant-client
