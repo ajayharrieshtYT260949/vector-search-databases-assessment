@@ -1,0 +1,7 @@
+numpy
+matplotlib
+faiss-cpu
+requests
+psycopg[binary]
+pgvector
+python-dotenv
